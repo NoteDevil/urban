@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "urban": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\79151\\Desktop\\s\u0026box\\sbox\\sbox.exe",
+      "commandLineArgs": "\u002Bdeveloper -w 1920 -h 1080 -noassert -tools"
+    }
+  }
+}
